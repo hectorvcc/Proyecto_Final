@@ -1,0 +1,16 @@
+
+1. Debes tener instalado un servidor Web y el SGBD MySQL
+
+2. Desde el gestor gráfico PHPMyAdmin:
+	
+	- Pulsamos 'Importar'
+	- Seleccionamos el fichero adjunto 'bolsaempleo.sql'
+	- Aceptamos, y se creará y cargará la base de datos
+
+3. Coloca en la raíz de tu servidor web la carpeta adjunta 'Proyecto'
+
+4. Para probarlo en modo local, entra la dirección 'localhost/Proyecto' y accederás a la Bolsa de Empleo Web.
+
+
+Además, se adjunta la documentación en PDF que incluye un manual de uso.
+
